@@ -23,3 +23,9 @@ MoonDev’s backtests show that retail gets chopped on these short-term markets.
 - ✅ Built-in position checker & logging  
 - ✅ Dry-run mode for safe testing  
 - ✅ Deployable on Railway, Replit, VPS, or even iPad + Termius
+
+### Quick Start (5 minutes)
+1. Clone the repo
+   ```bash
+   git clone https://github.com/wincXDSolana/polymarket-bot.git
+   cd polymarket-bot
